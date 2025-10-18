@@ -57,7 +57,7 @@ foreach ($exe in $exeFiles) {
     if (Is-ExeX64 -Path $exePath) {
         Write-Host "Running x64: $exePath"
         try {
-            & "C:\TMP\EDR-Write.exe" $exePath "C:\TMP\CheckDLL.dll" "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25070.5-0\wfile.txt"
+            & "C:\TMP\DefenderWrite.exe" $exePath "C:\TMP\CheckDLL.dll" "C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25070.5-0\wfile.txt"
         } catch {
             Write-Host "Failed to run: $exePath"
         }
