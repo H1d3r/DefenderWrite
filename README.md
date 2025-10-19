@@ -38,6 +38,12 @@ Check the output log file and look for executable files that have the result "su
 
 [Tool to run process with PPL without driver](https://github.com/TwoSevenOneT/CreateProcessAsPPL)
 
+## Fuel the Mission
+
+We’re a team of researchers and developers keeping our lab running, renewing essential software licenses, upgrading aging equipment, and getting coffee to reduce stress. You can support us by **buying a few books from our recommended list**. Every purchase directly funds lab maintenance, software licenses, equipment upgrades, and provides very big morale boosts.
+
+[Books on Programming and Cybersecurity recommended by Zero Salarium Researchers](https://www.zerosalarium.com/2025/10/books-on-programming-and-cybersecurity-recommended.html)
+
 ## Author:
 
 [Two Seven One Three](https://x.com/TwoSevenOneT)
