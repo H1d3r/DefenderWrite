@@ -23,7 +23,7 @@ You can modify __line 60__ of the script to change parameters such as the path t
 CMD (RunAs Administrator)
 powershell -c "path to Run-Check.ps1" > result.txt
 ```
-Check the output log file and look for executable files that have the result "successfully."
+Check the output log file (**result.txt**) and look for executable files that have the result "**successfully**".
 
 ### Some Antivirus have been successfully tested
 
@@ -34,13 +34,12 @@ Check the output log file and look for executable files that have the result "su
 
 ## Links
 
-[Using WSASS to dump LSASS](https://www.zerosalarium.com/2025/09/Dumping-LSASS-With-WER-On-Modern-Windows-11.html)
+[DefenderWrite: Abusing Whitelisted Programs for Arbitrary Writes](https://www.zerosalarium.com/2025/10/defenderwrite-abusing-whitelisted-programs-arbitrary-write.html)
 
-[Tool to run process with PPL without driver](https://github.com/TwoSevenOneT/CreateProcessAsPPL)
 
 ## Fuel the Mission
 
-We’re a team of researchers and developers keeping our lab running, renewing essential software licenses, upgrading aging equipment, and getting coffee to reduce stress. You can support us by **buying a few books from our recommended list**. Every purchase directly funds lab maintenance, software licenses, equipment upgrades, and provides very big morale boosts.
+We’re a team of researchers and developers keeping our lab running, renewing essential software licenses, upgrading aging equipment, and getting coffee to reduce stress. **You can support us by buying a few books from our recommended list**. Every purchase directly funds lab maintenance, software licenses, equipment upgrades, and provides very big morale boosts.
 
 [Books on Programming and Cybersecurity recommended by Zero Salarium Researchers](https://www.zerosalarium.com/2025/10/books-on-programming-and-cybersecurity-recommended.html)
 
